@@ -2,7 +2,7 @@
  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Graduate;MERN-STACK+Engineer;Problem+Solver;Web+Developer;Open-Source+Enthusiast" alt="Headline" />
     </div>
-<h3 align="center">Software Engineer at Geekinate🌟.</h3>
+<h3 align="center">Full Stack Developer at Bitnine🌟.</h3>
 
 
 
@@ -12,7 +12,7 @@
 </a>
 <p><img align="right" src="https://github.com/Ahmad495/Ahmad495/blob/main/animation_500_kxa883sd.gif" alt="Ahmad495" /></p>
 
-- 🌱 I’m currently working as a Web Developer at Geekinate
+- 🌱 I’m currently working as a Full Stack Developer at Bitnine
 
 - 📫 How to reach me **ahmad.mehmood.agha@gmail.com**
 <br>
